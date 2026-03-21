@@ -27,7 +27,7 @@ data analytics projects.
 - Built interactive Power BI dashboard with 
   weekly trends and customer segmentation
 - **Tools:** Power BI | SQL | DAX | Excel
-- 🔗 [Live Dashboard] | [Repository]
+- 🔗 [Live Dashboardhttps://app.powerbi.com/view?r=eyJrIjoiZWJjZTBiZDUtZGE3OC00NmQ4LWIxMmMtMzExMmM1MWJiYmNjIiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9] | [Repository]
 
 ### 2. E-commerce Sales Analytics
 - Analyzed customer behavior and sales patterns
