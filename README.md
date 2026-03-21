@@ -34,19 +34,19 @@ data analytics projects.
 - Identified top revenue drivers and 
   abandonment strategies
 - **Tools:** Power BI | Excel | SQL
-- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAyZjZhMmUtOWIxMi00N2QzLWJmZGUtYWJkNDNiYTRjYmIzIiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9)| [Repository]
+- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAyZjZhMmUtOWIxMi00N2QzLWJmZGUtYWJkNDNiYTRjYmIzIiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9)| [Repository](https://github.com/Sheetal28Sharma/Ecommerce-Sales-dashboard-using-power-bi)
 
 ### 3. Hospitality Analytics Dashboard
 - Built hotel performance tracking dashboard
 - Analyzed occupancy, revenue and booking trends
 - **Tools:** Power BI | SQL | Excel
-- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTllOWQ4ODYtNWI5Ni00M2EyLWJlY2EtYjZiMjYzNTU5ZDI1IiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9) | [Repository]
+- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTllOWQ4ODYtNWI5Ni00M2EyLWJlY2EtYjZiMjYzNTU5ZDI1IiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9) | [Repository](https://github.com/Sheetal28Sharma/Hospitallity-Analysis)
 
 ### 4. Sales Analytics Dashboard
 - Retail store performance analysis
 - Identified top products and regional trends
 - **Tools:** Power BI | Excel | SQL
-- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2E0NmNmMjAtNjg0Ny00NThlLWI5OWQtODVlMDBkZDdmM2U1IiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9) | [Repository]
+- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2E0NmNmMjAtNjg0Ny00NThlLWI5OWQtODVlMDBkZDdmM2U1IiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9) | [Repository](https://github.com/Sheetal28Sharma/Sales-Insights-Dashboard)
 
 ---
 
