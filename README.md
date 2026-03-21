@@ -27,26 +27,26 @@ data analytics projects.
 - Built interactive Power BI dashboard with 
   weekly trends and customer segmentation
 - **Tools:** Power BI | SQL | DAX | Excel
-- 🔗 [Live Dashboardhttps://app.powerbi.com/view?r=eyJrIjoiZWJjZTBiZDUtZGE3OC00NmQ4LWIxMmMtMzExMmM1MWJiYmNjIiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9] | [Repository]
+- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWJjZTBiZDUtZGE3OC00NmQ4LWIxMmMtMzExMmM1MWJiYmNjIiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9) | [Repository] 
 
 ### 2. E-commerce Sales Analytics
 - Analyzed customer behavior and sales patterns
 - Identified top revenue drivers and 
   abandonment strategies
 - **Tools:** Power BI | Excel | SQL
-- 🔗 [Live Dashboard] | [Repository]
+- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTAyZjZhMmUtOWIxMi00N2QzLWJmZGUtYWJkNDNiYTRjYmIzIiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9)| [Repository]
 
 ### 3. Hospitality Analytics Dashboard
 - Built hotel performance tracking dashboard
 - Analyzed occupancy, revenue and booking trends
 - **Tools:** Power BI | SQL | Excel
-- 🔗 [Live Dashboard] | [Repository]
+- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTllOWQ4ODYtNWI5Ni00M2EyLWJlY2EtYjZiMjYzNTU5ZDI1IiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9) | [Repository]
 
 ### 4. Sales Analytics Dashboard
 - Retail store performance analysis
 - Identified top products and regional trends
 - **Tools:** Power BI | Excel | SQL
-- 🔗 [Live Dashboard] | [Repository]
+- 🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2E0NmNmMjAtNjg0Ny00NThlLWI5OWQtODVlMDBkZDdmM2U1IiwidCI6ImU2YTg3NzEzLTIzYjAtNDEyYi1hMTA1LTllNzU2NTM2NWI3YSJ9) | [Repository]
 
 ---
 
