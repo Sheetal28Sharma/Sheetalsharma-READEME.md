@@ -56,7 +56,7 @@ data analytics projects.
 - 📜 Data Analytics — OneRoadmap
 - 📜 SQL — OneRoadmap
 - 📜 Effective Communication — Great Learning
-- 📜 AI tools - claude AI, Chatgpt, JuliusNative
+- 📜 AI tools - Claude AI, Chatgpt, JuliusNative, Genspark AI 
 
 ---
 
